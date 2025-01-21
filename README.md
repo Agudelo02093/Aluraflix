@@ -2,13 +2,6 @@
 
 Un proyecto inspirado en **Netflix**, desarrollado como parte de la formación de Alura. Aluraflix es una plataforma que permite gestionar categorías y videos personalizados, con un enfoque en tecnologías modernas y una interfaz amigable.  
 
-## 📋 Características  
-
-- 🔂 **Gestión de categorías**: Agrega, edita y visualiza categorías personalizadas.  
-- 🎮 **Gestión de videos**: Administra tus videos favoritos, agrupándolos según categorías.  
-- 🎨 **Interfaz intuitiva**: Experiencia de usuario optimizada con un diseño limpio y moderno.  
-- 📱 **Responsive Design**: Totalmente adaptado para dispositivos móviles, tabletas y escritorios.  
-
 ## 🚀 Tecnologías utilizadas  
 
 Este proyecto fue desarrollado con:  
